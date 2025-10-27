@@ -27,3 +27,32 @@ It helps librarians record, track, and organize all library operations efficient
 1. Download or clone the repository:  
    ```bash
    git clone https://github.com/RocelCabading/Library-System.git
+
+---
+
+## 💻 Usage
+1. Open the **Library System** in your web browser.    
+3. Use the **Add Book** feature to register new books.
+4. Use the **Add Category** feature to create a category.
+5. Use the **Add Students** feature to register students.
+6. Use the **Add Librarians** feature to add librarians.
+7. Record when a student **borrows** or **returns** a book.  
+8. Use the **Borrowings** tab to view library activity.  
+   
+
+---
+
+## 👩‍💻 Contributors
+| Name | Role |
+|------|------|
+| **Cabading, Rocel D.** | Developer / Documentor |
+
+
+---
+
+## ⚖️ License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project for educational purposes.  
+See the [LICENSE](LICENSE) file for more information.
+
+   
